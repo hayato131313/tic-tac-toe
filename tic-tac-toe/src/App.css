@@ -55,3 +55,12 @@
 .board-row {
   clear: both;
 }
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-board {
+  margin-right: 20px; /* 盤と履歴の間に余白 */
+}
